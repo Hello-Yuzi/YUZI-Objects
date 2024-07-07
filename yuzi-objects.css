@@ -57,10 +57,10 @@
 }
 
 @media only screen and (max-width: 479px) {
-    .link {
+    body.link {
         font-size: 12px;
         } 
-    .heading {
+    body.heading {
          font-size: 24px;
         } 
 }
