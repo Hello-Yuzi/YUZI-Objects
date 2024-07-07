@@ -56,7 +56,7 @@
     font-display: swap;
 }
 
-@media screen and (max-width: 479px) {
+@media only screen and (max-width: 479px) {
     .link {
         font-size: 12px;
         } 
